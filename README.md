@@ -1,4 +1,1 @@
-# COSUN.CLUB POLICIES
-
-- Terms of Service
-- Privacy Pilicy
+cosun.club 2025
